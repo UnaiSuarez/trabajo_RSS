@@ -1,0 +1,16 @@
+entities/Fuente.java
+ entities.Fuente
+controller/noticias/DAONoticias.java
+ controller.noticias.DAONoticias
+controller/fuentes/DAOFuentes.java
+ controller.fuentes.DAOFuentes
+ui/Menu.java
+ ui.Menu
+Main.java
+ Main
+entities/Noticia.java
+ entities.Noticia
+controller/fuentes/DAOFuentesXML.java
+ controller.fuentes.DAOFuentesXML
+controller/DAOFactory.java
+ controller.DAOFactory
